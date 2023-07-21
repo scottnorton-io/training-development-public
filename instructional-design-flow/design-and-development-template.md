@@ -51,9 +51,4 @@ After the course's implementation, the effectiveness of the training is evaluate
 2. Recommendations for improvements, which will be used to revise the existing materials and enhance future instructional design processes.
 
 ---
-
-**Conclusion:**
-
-The ADDIE model allows for a systematic and efficient approach to instructional design, ensuring that learning objectives are met effectively. With each phase's deliverables, we can provide a comprehensive set of resources to facilitate and enhance the learning process.
-
----
+REF: 
